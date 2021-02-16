@@ -1,0 +1,8 @@
+package com.hihighlinux;
+
+public class Practice44 {
+	public static void main(String args[]) {
+		int i= 0;
+		int j= 0;
+	}
+}

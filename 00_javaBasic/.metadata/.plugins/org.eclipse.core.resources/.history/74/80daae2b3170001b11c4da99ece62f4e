@@ -1,0 +1,14 @@
+package com.hihighlinux;
+
+public class Practice44 {
+	public static void main(String args[]) {
+		int i;
+		int sum = 0;
+		
+		while(sum == 100) {
+			if(i%3 == 0)
+		}
+		
+		
+	}
+}

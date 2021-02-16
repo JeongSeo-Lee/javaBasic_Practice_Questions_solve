@@ -1,0 +1,22 @@
+package com.hihighlinux;
+
+public class Practice44 {
+	public static void main(String args[]) {
+		int i = 0;
+		int sum = 0;
+		
+		while(sum != 100) {
+			i++;
+			if(i%2 == 0) {
+				sum -= i;
+			} elseif(i%3 == 0) {
+				sum += i;
+			} else {
+				
+			}
+			System.out.println(sum);
+		}
+		
+		
+	}
+}

@@ -1,0 +1,19 @@
+package com.hihighlinux;
+
+public class Practice44 {
+	public static void main(String args[]) {
+		int sum = 0;
+		
+		for(int i = 1; true; i++) {
+			System.out.println(sum);
+			if(i%2==0) {
+				i = i * (-1);
+			}
+			sum += i;
+			if(sum >=100) {
+				break;
+			}
+		}
+		
+	}
+}
