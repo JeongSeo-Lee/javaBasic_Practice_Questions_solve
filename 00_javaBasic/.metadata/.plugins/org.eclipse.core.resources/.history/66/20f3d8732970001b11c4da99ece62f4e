@@ -1,0 +1,7 @@
+package com.hihighlinux;
+
+public class Practice42 {
+	public static void main(String args[]) {
+		System.out.println("test");
+	}
+}
