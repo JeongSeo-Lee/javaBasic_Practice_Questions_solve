@@ -1,4 +1,4 @@
-package com.hihighlinux;
+package com.hihighlinux._4;
 
 public class Practice4_2 {
 	public static void main(String args[]) {
